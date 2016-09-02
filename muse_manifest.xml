@@ -1,0 +1,53 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="lakewoodrobotics.org" resolutions="1x" timestamp="1472695763149">
+  <folder name="css">
+    <file name="site_global.css" crc="123159972"/>
+    <file name="index.css" crc="3973957610" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="169177150" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="form_check.php" crc="121412709" ref="index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="index"/>
+    <file name="form_process.php" crc="444429785" ref="index"/>
+    <file name="form-u563.php" crc="4061920827" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="img_9506.jpg" crc="92514873" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="13876595_616829905151475_6656293853624963133_n.jpg" crc="3863120667" seo="true" ref="index"/>
+    <file name="12933077_564153510419115_7380399541722922384_n.jpg" crc="33907262" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="lakewoodrobotics_transparent-u1199.png" crc="75332851" ref="index"/>
+    <file name="avlogo.jpg" crc="3894877168" ref="index"/>
+    <file name="nnlogo.jpg" crc="4223830358" ref="index"/>
+    <file name="msllogo.jpg" crc="233149816" ref="index"/>
+    <file name="13254052_584956768338789_7701600978289408285_n.jpg" crc="3832542881" ref="index"/>
+    <file name="qoutes.png" crc="49248888" seo="true" ref="index"/>
+    <file name="deankamen.jpg" crc="3963912751" seo="true" ref="index"/>
+    <file name="14114728_10210276960860180_430780884_o-u939-fr.png" crc="213129634" ref="index"/>
+    <file name="11053363_10152578638975666_4320333454121651893_o-crop-u953.jpg" crc="77096464" ref="index"/>
+    <file name="icon4.png" crc="209647003" seo="true" ref="index"/>
+    <file name="icon3.png" crc="3961184872" seo="true" ref="index"/>
+    <file name="icon2.png" crc="121253092" seo="true" ref="index"/>
+    <file name="steve-crop-u959.jpg" crc="21910044" ref="index"/>
+    <file name="14089166_10154314940020661_2811232761103390034_n-crop-u986.jpg" crc="4030000120" ref="index"/>
+    <file name="u573-17.png" crc="408665044" ref="index"/>
+    <file name="u573-17-r.png" crc="276465258" ref="index"/>
+    <file name="u573-17-m.png" crc="276465258" ref="index"/>
+    <file name="u573-17-fs.png" crc="3966413405" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4013238499" seo="true" mt="1472695593436" redirect="true"/>
+</manifest>
